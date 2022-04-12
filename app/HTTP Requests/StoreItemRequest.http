@@ -1,0 +1,10 @@
+POST http://localhost:80/api/items
+Content-Type: application/json
+
+{
+    "item": {
+        "name": "Name of the item"
+    }
+}
+
+###

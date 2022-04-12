@@ -1,0 +1,10 @@
+PUT http://localhost:80/api/items/1
+Content-Type: application/json
+
+{
+    "item": {
+        "completed": true
+    }
+}
+
+###
